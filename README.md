@@ -1,5 +1,5 @@
 # lavia
-A super simple C++ password generator. 
+A super simple C++ password generator. Currently, Lavia can generate passwords of arbitrary length and will avoid ambiguous characters if prompted. 
 
 ## Usage
-Simply download lavia.cpp and run it in a terminal. Use '+' and '-' to edit the default length and 'q' to quit. 
+Simply download lavia.cpp and run it in the terminal. Follow the instructions given inside the CLI. 
